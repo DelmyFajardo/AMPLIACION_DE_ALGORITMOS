@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|c:\\users\\delmy\\desktop\\prograiii\\prograiii\\prograiii\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|solutionrelative:prograiii\\quicksort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|c:\\users\\delmy\\desktop\\prograiii\\prograiii\\prograiii\\binario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|solutionrelative:prograiii\\binario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|c:\\users\\delmy\\desktop\\prograiii\\prograiii\\prograiii\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|solutionrelative:prograiii\\seleccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|c:\\users\\delmy\\desktop\\prograiii\\prograiii\\prograiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|solutionrelative:prograiii\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|c:\\users\\delmy\\desktop\\prograiii\\prograiii\\prograiii\\lineal-search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|solutionrelative:prograiii\\lineal-search.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|c:\\users\\delmy\\desktop\\prograiii\\prograiii\\prograiii\\prograiii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3BA72A29-6361-47F5-9C42-D1E101E2C1B6}|prograiii\\prograiii.csproj|solutionrelative:prograiii\\prograiii.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lineal-search.cs",
+              "DocumentMoniker": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\lineal-search.cs",
+              "RelativeDocumentMoniker": "prograiii\\lineal-search.cs",
+              "ToolTip": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\lineal-search.cs",
+              "RelativeToolTip": "prograiii\\lineal-search.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:43:43.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\Program.cs",
+              "RelativeDocumentMoniker": "prograiii\\Program.cs",
+              "ToolTip": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\Program.cs",
+              "RelativeToolTip": "prograiii\\Program.cs",
+              "ViewState": "AgIAAIwAAAAAAAAAAAAwwH0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:43:45.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "quicksort.cs",
+              "DocumentMoniker": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\quicksort.cs",
+              "RelativeDocumentMoniker": "prograiii\\quicksort.cs",
+              "ToolTip": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\quicksort.cs",
+              "RelativeToolTip": "prograiii\\quicksort.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:58:16.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "seleccion.cs",
+              "DocumentMoniker": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\seleccion.cs",
+              "RelativeDocumentMoniker": "prograiii\\seleccion.cs",
+              "ToolTip": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\seleccion.cs",
+              "RelativeToolTip": "prograiii\\seleccion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:55:17.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "binario.cs",
+              "DocumentMoniker": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\binario.cs",
+              "RelativeDocumentMoniker": "prograiii\\binario.cs",
+              "ToolTip": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\binario.cs",
+              "RelativeToolTip": "prograiii\\binario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T03:55:00.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "prograiii.csproj",
+              "DocumentMoniker": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\prograiii.csproj",
+              "RelativeDocumentMoniker": "prograiii\\prograiii.csproj",
+              "ToolTip": "C:\\Users\\delmy\\Desktop\\prograiii\\prograiii\\prograiii\\prograiii.csproj",
+              "RelativeToolTip": "prograiii\\prograiii.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T03:44:02.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
